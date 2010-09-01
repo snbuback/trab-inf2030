@@ -1,0 +1,8 @@
+Além do Python 2.6.5 é necessário instalar
+
+python - nltk
+python - lxml
+
+Para rodar basta executar ./src/classificador.py
+
+

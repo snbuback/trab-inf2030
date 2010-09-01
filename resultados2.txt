@@ -1,0 +1,43 @@
+penalti  =  272
+gol  =  6516
+cartao  =  12339
+substituicao  =  12750
+narracao  =  127296
+total = 159173
+
+
+classes:  ['penalti', 'gol', 'cartao', 'substituicao', 'narracao']
+preparing...
+train set: 119381
+training...
+Most Informative Features
+              convertido = True           penalt : narrac =   7823.3 : 1.0
+              gooooooool = True              gol : narrac =   6205.0 : 1.0
+                   falta = True           cartao : substi =   3956.5 : 1.0
+                      em = True           cartao : substi =   3402.7 : 1.0
+                  gooool = True              gol : narrac =   2949.5 : 1.0
+    gooooooooooooooooool = True              gol : narrac =   2259.3 : 1.0
+                 goleiro = True              gol : substi =   2214.2 : 1.0
+               substitui = True           substi : cartao =   2086.8 : 1.0
+                    dura = True           cartao : substi =   2029.8 : 1.0
+           goooooooooool = True              gol : narrac =   1829.6 : 1.0
+accuracying...
+test set: 39792
+accuracy: 0.683281712351
+preparing...
+train set: 119381
+training...
+Most Informative Features
+                   falta = True           cartao : substi =   3612.1 : 1.0
+                      em = True           cartao : substi =   3384.1 : 1.0
+                    para = True              gol : substi =   2934.5 : 1.0
+                converte = True           penalt : narrac =   1585.4 : 1.0
+                   canto = True              gol : cartao =    910.8 : 1.0
+                       o = True              gol : substi =    750.5 : 1.0
+                       a = True              gol : substi =    644.1 : 1.0
+                zagueiro = True              gol : substi =    555.0 : 1.0
+                  punido = True           cartao : narrac =    544.2 : 1.0
+                chuveiro = True           cartao : narrac =    440.6 : 1.0
+accuracying...
+test set: 39792
+accuracy: 0.810803339762

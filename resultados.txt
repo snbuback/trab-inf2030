@@ -1,0 +1,56 @@
+Terminado leitura com 6516 gols e 127296 narracoes => 133812
+Conjunto de treino com 33453
+Conjunto de test com 100359
+
+
+
+=========================================
+Naive Bayes basico
+0.648282665232
+Most Informative Features
+              gooooooool = True             gols : narrac =   4733.3 : 1.0
+                  gooool = True             gols : narrac =   2233.2 : 1.0
+           goooooooooool = True             gols : narrac =   1295.6 : 1.0
+               goooooool = True             gols : narrac =    983.1 : 1.0
+                    fera = True             gols : narrac =    604.3 : 1.0
+                   goool = True             gols : narrac =    207.0 : 1.0
+                indefens = True             gols : narrac =    191.4 : 1.0
+              gooooollll = True             gols : narrac =    149.7 : 1.0
+              encobrindo = True             gols : narrac =    136.7 : 1.0
+                  estufa = True             gols : narrac =    131.1 : 1.0
+
+=========================================
+Naive Bayes basico/Best Words
+0.951304815712
+Most Informative Features
+                    gols = True           narrac : gols   =      3.8 : 1.0
+                    gols = None             gols : narrac =      1.0 : 1.0
+                narracao = None           narrac : gols   =      1.0 : 1.0
+
+
+=========================================
+Com acentos/Palavra gol ajustada
+0.65674229516
+Most Informative Features
+                    fera = True             gols : narrac =    604.3 : 1.0
+            indefensavel = True             gols : narrac =    191.4 : 1.0
+              encobrindo = True             gols : narrac =    136.7 : 1.0
+                  estufa = True             gols : narrac =    131.1 : 1.0
+                   morre = True             gols : narrac =    124.6 : 1.0
+                       i = True             gols : narrac =    119.4 : 1.0
+                 maneiro = True             gols : narrac =    110.7 : 1.0
+                clarence = True             gols : narrac =    110.7 : 1.0
+                 traindo = True             gols : narrac =     97.7 : 1.0
+                  zlatan = True             gols : narrac =     89.8 : 1.0
+
+=========================================
+Com acentos/Palavra gol ajustada/Best Words
+0.951304815712
+Most Informative Features
+                    gols = True           narrac : gols   =      3.8 : 1.0
+                    gols = None             gols : narrac =      1.0 : 1.0
+                narracao = None             gols : narrac =      1.0 : 1.0
+
+
+
+
